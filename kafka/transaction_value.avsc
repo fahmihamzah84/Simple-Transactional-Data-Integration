@@ -1,0 +1,38 @@
+{
+  "namespace": "com.transaction.bank",
+  "type": "record",
+  "name": "Transaction",
+  "fields": [
+    {
+      "name": "transaction_Id",
+      "type": "int"
+    },
+    {
+      "name": "date",
+      "type": {
+        "type": "long",
+        "logicalType": "timestamp-millis"
+      }
+    },
+    {
+      "name": "id_sender",
+      "type": "int"
+    },
+    {
+      "name": "namaSender",
+      "type": "string"
+    },
+    {
+      "name": "id_receiver",
+      "type": "int"
+    },
+    {
+      "name": "namaReceiver",
+      "type": "string"
+    },
+    {
+      "name": "amount",
+      "type": "int"
+    }
+  ]
+}

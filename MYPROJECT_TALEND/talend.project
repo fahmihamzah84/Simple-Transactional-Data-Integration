@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="__He8wcywEe6WXvJ3ziogXg" label="myProject" language="java" technicalLabel="MYPROJECT" author="__He8wsywEe6WXvJ3ziogXg" productVersion="Talend Cloud Data Management Platform-8.0.1.20240222_1049-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/fahmihamzah84/MyTalendProject&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="__ISOAMywEe6WXvJ3ziogXg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="__He8wsywEe6WXvJ3ziogXg" login="fahmihamzah666galak@trial12776.ap.talend.com" firstName="Fahmi" lastName="Hamzah" type="DQ"/>
+  <TalendProperties:User xmi:id="_laUAYNfnEe6Ow5tYorzX_Q" login="iniicloudami@trial13150.ap.talend.com" firstName="Fahmi" lastName="Hamzah" type="DQ"/>
+  <TalendProperties:User xmi:id="_laUAYdfnEe6Ow5tYorzX_Q" login="iniicloudami@trial13150.ap.talend.com" firstName="Fahmi" lastName="Hamzah" type="DQ"/>
+</xmi:XMI>

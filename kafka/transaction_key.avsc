@@ -1,0 +1,12 @@
+{
+  "namespace": "com.transaction.bank",
+  "type": "record",
+  "name": "TransactionKey",
+  "fields": [
+    {
+      "name": "transaction_Id",
+      "type" : "int"
+    }
+  ]
+}
+

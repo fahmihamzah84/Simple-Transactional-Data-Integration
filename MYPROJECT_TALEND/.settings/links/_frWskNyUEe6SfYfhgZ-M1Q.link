@@ -1,0 +1,11 @@
+{
+  "itemId" : "_frWskNyUEe6SfYfhgZ-M1Q",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_TgZWINyVEe6SfYfhgZ-M1Q",
+    "parameterList" : [ {
+      "id" : "_WF9DINyVEe6SfYfhgZ-M1Q",
+      "name" : "credentialJson"
+    } ]
+  } ]
+}
