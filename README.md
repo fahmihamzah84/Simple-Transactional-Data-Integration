@@ -1,4 +1,4 @@
-# PT Jasamedika Saranatama Test Case
+# Simple Transactional Data Integration
 
 ## Description
 This project aims to generate data from a specified file, then send it to BigQuery, integrated with Talend. The process in Talend involves creating a data warehouse. Once the data warehouse is set up, Kafka is utilized to stream data to the data warehouse in BigQuery.
